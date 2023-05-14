@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+    background-color: aqua;
+}
+h1 {
+    text-align:center;
+}
+header{
+    background-color: limegreen;
+}
+nav {
+    background-color:limegreen;
+}
+a {
+    border:1px solid blue ;
+    border-radius: 5px;
+    color:red;
+    margin:5px;
+}
+p {
+    color: darkorange;
+}
+footer{
+    background-color: limegreen;
+}
